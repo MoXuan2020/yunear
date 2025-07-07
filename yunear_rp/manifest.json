@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "yunear_rp",
+    "name": "yunear",
+    "uuid": "03b4a4f0-37c6-40e5-9a7d-66dd95ebca1c",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "yunear_rp",
+      "type": "resources",
+      "uuid": "c5c801a5-414a-45b9-bf7a-301c1d96cbe5",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
